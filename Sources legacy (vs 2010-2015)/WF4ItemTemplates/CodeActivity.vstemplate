@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VSTemplate Version="3.0.0" Type="Item" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+  <TemplateData>
+    <Name>Activity based on CodeActivity</Name>
+    <Description>Activity based on CodeActivity</Description>
+    <Icon>_ActivityIcon.ico</Icon>
+    <TemplateID>f029b6c5-9189-43c6-bde8-f653d868f001</TemplateID>
+    <ProjectType>CSharp</ProjectType>
+    <RequiredFrameworkVersion>4.0</RequiredFrameworkVersion>
+    <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
+    <DefaultName>CodeActivity.cs</DefaultName>
+    <SortOrder>90001</SortOrder>
+  </TemplateData>
+  <TemplateContent>
+    <References>
+      <Reference>
+        <Assembly>System</Assembly>
+      </Reference>
+      <Reference>
+        <Assembly>System.Activities</Assembly>
+      </Reference>
+      <Reference>
+        <Assembly>System.Core</Assembly>
+      </Reference>
+    </References>
+
+    <ProjectItem ReplaceParameters="true">CodeActivity.cs</ProjectItem>
+  </TemplateContent>
+</VSTemplate>

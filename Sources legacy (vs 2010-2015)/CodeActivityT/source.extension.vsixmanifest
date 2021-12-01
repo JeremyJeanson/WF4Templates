@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Vsix xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="1.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2010">
+  <Identifier Id="CodeActivityT..5ae262d4-1b6a-4270-adc0-ba257bafed5f">
+    <Name>Template CodeActivity Of T (C#)</Name>
+    <Author>Jérémy Jeanson</Author>
+    <Version>1.0</Version>
+    <Description xml:space="preserve">Activity template optimized for Workflow Foundation 4 and C#.
+
+Contain template for CodeActivity&lt;TResult&gt; (execute and cachemetadata)</Description>
+    <Locale>1033</Locale>
+    <Icon>_ActivityIcon.ico</Icon>
+    <SupportedProducts>
+      <VisualStudio Version="10.0">
+        <Edition>Ultimate</Edition>
+        <Edition>Premium</Edition>
+        <Edition>Pro</Edition>
+        <Edition>VCSExpress</Edition>
+      </VisualStudio>
+    </SupportedProducts>
+    <SupportedFrameworkRuntimeEdition MinVersion="4.0" MaxVersion="4.0" />
+  </Identifier>
+  <References />
+  <Content>
+    <ItemTemplate>ItemTemplates</ItemTemplate>
+  </Content>
+</Vsix>
