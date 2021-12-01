@@ -1,8 +1,8 @@
-# WF4.X Activities Templates for VS 2019-2022
-![WF4.X Activities Templates for VS 2019-2022](Documentations/Images/icon.png)
+# WF4.X Activities Templates
+![WF4.X Activities Templates for Visual Studio](Documentations/Images/icon.png)
 
 ## Introduction
-This project is an extension designed for Visual Studio 2019 and 2022. It includes optimised Activities Templates for Workflow Foundation 4 and 4.5 :
+This project is an extension designed for Visual Studio (2010 to 2022). It includes optimised Activities Templates for Workflow Foundation 4 and 4.5 :
 - CodeActivity
 - CodeActivity with Result
 - NativeActivity
@@ -12,7 +12,10 @@ This project is an extension designed for Visual Studio 2019 and 2022. It includ
 
 ## Install
 
-[Download from the Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=JeremyJeanson.WF4TemplatesVS2017plus)
+Download from the Visual Studio Marketplace :
+- [WF4.X Activities Templates for VS 2017-2022](https://marketplace.visualstudio.com/items?itemName=JeremyJeanson.WF4TemplatesVS2017plus)
+- [WF4.X Activities Templates for VS 2010-2013](https://marketplace.visualstudio.com/items?itemName=JeremyJeanson.WF4XActivitiesTemplates)
+
 
 ## Contribute
 Contributions are open. Juste send your ideas or Pull Request ;)
